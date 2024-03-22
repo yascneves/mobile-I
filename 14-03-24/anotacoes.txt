@@ -1,0 +1,47 @@
+Mobile I - Aula 2 - Savio
+
+Python
+
+Imprimir na tela:
+print("...")
+
+Exercicios:
+Exercícios programação - Pseudocódigo ou outra linguagem - LISTA A – VALOR 7 PONTOS 
+
+1 - Faça um Programa que mostre a mensagem "Alo mundo" na tela. 
+
+2 - Faça um Programa que peça um nome e a idade e então mostre a mensagem Seu nome é $nome / sua idade é $idade. 
+
+3 - Faça um Programa que peça dois números e imprima a soma. 
+
+4 - Faça um Programa que peça as 4 notas e mostre a média. 
+
+5 - Faça um Programa que converta metros para centímetros. 
+
+6 - Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário. 
+
+7 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês. 
+
+[Trabalho valor 5 pontos]Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê: 
+
+salário bruto. 
+
+quanto pagou ao INSS. 
+
+quanto pagou ao sindicato. 
+
+o salário líquido. 
+
+calcule os descontos e o salário líquido, conforme a tabela abaixo: 
+
++ Salário Bruto : R$ 
+
+- IR (11%) : R$ 
+
+- INSS (8%) : R$ 
+
+- Sindicato ( 5%) : R$ 
+
+= Salário Liquido : R$ 
+
+Obs.: Salário Bruto - Descontos = Salário Líquido.
