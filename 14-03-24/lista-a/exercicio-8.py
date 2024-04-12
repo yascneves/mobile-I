@@ -15,7 +15,7 @@ horasTrabalhadas = int(input("Digite a quantidade de horas trabalhadas no mês:"
 salarioBruto = salarioHora * horasTrabalhadas
 valorIr = salarioBruto * 0.11
 valorInss = salarioBruto * 0.08
-valorSindicato = salarioBruto * 0.95
+valorSindicato = salarioBruto * 0.05
 salarioLiquido = salarioBruto - (valorIr + valorInss + valorSindicato)
 print("Seu salário bruto é de:", salarioBruto)
 print("Seu salário liquido é de:", salarioLiquido)
