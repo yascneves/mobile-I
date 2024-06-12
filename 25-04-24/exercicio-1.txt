@@ -1,0 +1,11 @@
+1) Faça uma tabela comparativa entre Android e iOS. Android 
+(tabela no draw.io)
+
+2) Qual dos dois SO é mais rentável para o programador? (a resposta sempre é depende)
+Programar no SO Android é mais rentável por ter mais flexibilidade, disponibilidade de códigos e personalização do que o iOS. Como o Android tem o código aberto, teoricamente é mais fácil de programar nesse sistema
+
+3) Explique o que é transformação digital com suas palavras.
+É uma mudança que afeta o cotidiano das pessoas em diversas áreas, seja profissional, social, familiar, etc. A tecnologia digital permite que tenhamos facilidades no dia a dia, mudando as relações interpessoais.
+
+
+4) Navegue pelo Kodular para conhecer mais ferramentas de blocos.
