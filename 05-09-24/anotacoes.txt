@@ -1,0 +1,4 @@
+Aula 09-05-2024 - Mobile I - Prof. Sávio
+
+- Fazer um app apresentável com o Mit App Inventor
+- Entregar em até 3 aulas
