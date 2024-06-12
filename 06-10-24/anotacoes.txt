@@ -1,0 +1,16 @@
+Conceitos para estudar para a prova:
+- Programação Orientada a Objetos
+- Classes
+- Objetos
+- Atributos: são como adjetivos. São características de uma classe
+- Métodos: são como verbos. São ações, função de uma classe.
+- Encapsulamento
+- Abstração: simplificação das complexidades, representando aspectos essenciais de um objeto, enquanto oculta detalhes não essenciais.
+- Polimorfismo: refere-se à capacidade de um objeto ou método se comportar de maneiras diferentes com base no contexto em que é usado.
+O objetivo é permitir que objetos de diferentes classes sejam tratados da mesma forma, simplificando a manipulação de objetos diversos.
+
+P.O.O.
+- Polimorfismo:  
+- Herança
+- Abstração
+- Encapsulamento

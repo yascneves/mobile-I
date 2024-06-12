@@ -1,0 +1,22 @@
+Exercícios POO:
+
+1) Explique com suas palavras:
+a) O que é programação orientada a objetos
+    é um paradigma de programação que consiste em utilizar objetos para construir um sistema.
+
+b) O que é Polimorfismo
+    refere-se à capacidade de um objeto ou método se comportar de maneiras diferentes 
+    com base no contexto em que é usado.
+    O objetivo é permitir que objetos de diferentes classes sejam tratados da mesma forma, 
+    simplificando a manipulação de objetos diversos.
+
+c) O que é Herança
+    É quando uma subclasse herda ou compartilha características de uma classe
+
+d) O que é Abstração
+    é a simplificação das complexidades de um objeto. 
+    Ela representando aspectos essenciais de um objeto, enquanto oculta detalhes não essenciais.
+
+e) O que é Encapsulamento
+    Faz com que as características e métodos de um objeto sejam encapsuladas, ou agrupadas e ocultadas,
+    sem afetar o restante do sistema, a fim de facilitar a reutilização do objeto. 
